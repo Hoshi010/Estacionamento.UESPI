@@ -1,0 +1,1 @@
+/*implementa e expoe funçoes de carregar e salvar arquivos com tratamento de falhas*/

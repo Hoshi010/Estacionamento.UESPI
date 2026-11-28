@@ -1,0 +1,1 @@
+/*define as regras de operaçoes, validaçao de placa, data/hora, entrada e saida, etc*/

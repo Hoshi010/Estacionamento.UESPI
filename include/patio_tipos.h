@@ -1,0 +1,1 @@
+/*define constantes,enums e structs*/

@@ -1,0 +1,1 @@
+/*implementa e expoe as funçoes de dominio e controle de vagas e ou tarifas (operacoes.h e tipos.h)*/

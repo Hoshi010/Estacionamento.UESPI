@@ -1,0 +1,1 @@
+/*implementa e expoe a interaçao do usuario com o terminal (menu/ formataçao de tabelas e ou relatorios)*/

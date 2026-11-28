@@ -1,0 +1,1 @@
+/*define status do arquivo e logica do estado atual, e historico alem de tratar arquivo inexistente*/
