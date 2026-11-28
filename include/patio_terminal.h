@@ -1,0 +1,1 @@
+/*menus, mapas de vagas , comprovantes e relatorios , leitura validada de entradas*/

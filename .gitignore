@@ -1,0 +1,26 @@
+# Binarios e arquivos de compilacao
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dSYM/
+build/
+bin/
+
+# Arquivos temporarios e de sistema
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados em tempo de execucao (mantenha apenas o exemplo em data/)
+dados_estacionamento.txt
+dados_estacionamento.dat
+*.tmp
+*.log
+
+# Configuracoes locais de editores/IDEs
+.vscode/
+.idea/
